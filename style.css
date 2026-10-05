@@ -262,7 +262,7 @@ body {
   display: block;
   width: 100%;
   max-width: 480px;
-  background: var(--navy);
+  background: #e8590c;
   color: var(--white);
   text-decoration: none;
   text-align: center;
@@ -272,12 +272,12 @@ body {
   font-weight: 900;
   font-family: var(--font);
   letter-spacing: .06em;
-  box-shadow: 0 6px 24px rgba(26,39,68,.5), 0 2px 8px rgba(0,0,0,.2);
+  box-shadow: 0 6px 24px rgba(232,89,12,.45), 0 2px 8px rgba(0,0,0,.2);
   transition: background .2s, transform .1s, box-shadow .2s;
 }
 
 .fixed-cta-btn:hover {
-  background: #2a3d6e;
+  background: #c94a08;
   transform: translateY(-1px);
 }
 
